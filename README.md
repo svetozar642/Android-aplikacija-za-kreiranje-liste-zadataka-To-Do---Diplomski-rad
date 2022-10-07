@@ -1,4 +1,4 @@
-# Android-aplikacija-za-kreiranje-liste-zadataka-To-Do---Diplomski-rad
+# Android-aplikacija-za-kreiranje-liste-zadataka-To-Do
 
 ## DIPLOMSKI RAD 
 
